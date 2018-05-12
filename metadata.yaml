@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37149
     wikipedia: http://en.wikipedia.org/wiki/Kartini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34647#Letters-of-a-Javanese-Princess
 gutenberg_issued: '2010-12-13'
 gutenberg_type: Text
 identifiers:
