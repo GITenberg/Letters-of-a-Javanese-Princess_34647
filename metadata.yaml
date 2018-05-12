@@ -1,0 +1,49 @@
+_repo: Letters-of-a-Javanese-Princess_34647
+_version: 0.1.0
+alternative_title: Door duisternis tot licht. English
+contributor:
+  commentator:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+  translator:
+    agent_name: Symmers, Agnes Louise
+    gutenberg_agent_id: '37150'
+    url: http://www.gutenberg.org/2009/agents/37150
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kartini, Raden Adjeng
+    aliases:
+    - Hadiningrat, Djojo, Kanjeng Raden Ayu Adipati
+    - Djojoadiningrat, Kartini, Gusti Raden Ayu Adipati
+    birthdate: 1879
+    deathdate: 1904
+    gutenberg_agent_id: '37149'
+    url: http://www.gutenberg.org/2009/agents/37149
+    wikipedia: http://en.wikipedia.org/wiki/Kartini
+description: ''
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Feminists -- Indonesia -- Java -- Correspondence'
+- !lcc 'DS'
+- !lcsh 'Kartini, Raden Adjeng, 1879-1904 -- Correspondence'
+- !lcsh 'Women -- Indonesia -- Java -- Social conditions'
+title: Letters of a Javanese Princess
+url: http://www.gutenberg.org/ebooks/34647
